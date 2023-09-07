@@ -182,3 +182,11 @@ Go to the `EC2` &rarr; `Instances` and select your instance. In the summary, you
 ```
 
 Finally, you can see your application deployed on the EC2 - AWS (Image on the repository beginner)
+
+---
+<div align="center">
+  <strong>"People’s dreams... Have no ends" - OP</strong>
+</div>
+<p align="center">
+  <sub>Created by BrenoAV</sub>
+</p>
