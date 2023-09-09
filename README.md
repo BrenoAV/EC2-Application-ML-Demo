@@ -185,7 +185,7 @@ Finally, you can see your application deployed on the EC2 - AWS (Image on the re
 
 ---
 <div align="center">
-  <strong>"People’s dreams... Have no ends" - OP</strong>
+  <strong>"PEOPLE'S DREAMS WILL NEVER END" - OP</strong>
 </div>
 <p align="center">
   <sub>Created by BrenoAV</sub>
